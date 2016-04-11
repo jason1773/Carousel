@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8281015DF734BBFCFA316DA97302B96B42A7FF79",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DB148EAC77889CC71F0906BD671A61A151C4856D" : 0,
+    "8281015DF734BBFCFA316DA97302B96B42A7FF79" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D30D3983-5A8C-4AC2-A712-3C960F24750A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DB148EAC77889CC71F0906BD671A61A151C4856D" : "..",
+    "8281015DF734BBFCFA316DA97302B96B42A7FF79" : "Carousel\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Carousel",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Carousel.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jason1773\/Carousel.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8281015DF734BBFCFA316DA97302B96B42A7FF79"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.kdc.capitalone.com\/rvl397\/iPhone.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DB148EAC77889CC71F0906BD671A61A151C4856D"
+    }
+  ]
+}
